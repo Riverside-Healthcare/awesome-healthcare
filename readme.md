@@ -1,11 +1,11 @@
-# Awesome Healthcare
+<h1 align="center">
+  Awesome Healthcare<br>
+  <img width="25%" src="https://github.com/Riverside-Healthcare/awesome-healthcare/raw/master/media/logo.png" />
+</h1>
+<p align="center">
+  <a href="#analytics">Analytics</a> |  <a href="#automation">Automation</a> |  <a href="#code-management">Code Management</a> |  <a href="#python-packages">Python Packages</a> |  <a href="#other-tools">Other Tools</a>
 
-- [Analytics](#analtyics)
-- [Automation](#automation)
-- [Code Management](#code-management)
-- [Python Packages](#python-packages)
-- [Other Tools](#other-tools)
-
+</p>
 
 ## Analytics
 
